@@ -1,0 +1,12 @@
+Priya Shah
+Machine Learning Engineer
+
+Experience:
+Built machine learning prototypes using Python.
+Processed data and evaluated classification models.
+
+Skills:
+Python, Machine Learning, Pandas, NumPy, SQL
+
+Education:
+MSc Data Science, 2024

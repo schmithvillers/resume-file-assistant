@@ -1,0 +1,12 @@
+Jane Smith
+Java Software Engineer
+
+Experience:
+2 years developing enterprise applications with Java.
+Built REST services using Spring Boot.
+
+Skills:
+Java, Spring Boot, SQL, Maven, Git
+
+Education:
+BTech Information Technology, 2023

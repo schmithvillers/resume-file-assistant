@@ -1,0 +1,12 @@
+Rahul Mehta
+Automation Engineer
+
+Experience:
+Developed Python scripts for infrastructure automation.
+Created monitoring tools and deployment workflows.
+
+Skills:
+Python, Linux, Bash, Git, Docker
+
+Education:
+BTech Computer Science, 2020
